@@ -1,0 +1,16 @@
+{
+  "name": "project_basic_informational_site",
+  "version": "1.0.0",
+  "description": "A project for practice and test",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index",
+    "dev":"nodemon index"
+    
+  },
+  "author": "Fazal",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
